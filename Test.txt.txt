@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My First Project</title>
+</head>
+<body>
+    <h1>Welcome to My First Project 🚀</h1>
+    <p>This is my very first file uploaded on GitHub.</p>
+    <p>Excited to start my journey in coding and projects!</p>
+</body>
+</html> 
